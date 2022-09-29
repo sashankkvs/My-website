@@ -1,0 +1,206 @@
+body {
+margin:0;
+text-align: center;
+background-color:;
+}
+h1 {
+font-size:5.625rem;
+color: #F47C7C;
+margin : 30px auto 0 auto;
+font-family: 'Shadows Into Light', cursive;
+}
+div {
+
+}
+
+h2 {
+color : #F47C7C;
+font-size : 2.5rem;
+font-weight : normal;
+}
+
+h3 {
+color : #11999E;
+font-size : 20px;
+}
+
+hr {
+border : 8px dotted;
+border-style : dotted none none;
+width:5%;
+color: #EAF6F6;
+}
+
+a {
+color : #11999E;
+}
+
+p {
+font-family: 'Edu QLD Beginner', cursive;
+font-size : 20px;
+font-weight : bold;
+font-stretch : 300%;
+line-height : 2;
+color:#40514E
+}
+
+.cloud {
+position : absolute;
+left : 700px;
+bottom : 240px;
+}
+.par {
+text-decoration : underline;
+}
+
+.cloud_1 {
+position : relative;
+left : 100px;
+bottom : 100px;
+padding-top:100px;
+}
+
+.top-container {
+background-color: #DFF0EA;
+position : relative;
+padding-top : 100px;
+}
+
+.mountain {
+position:relative;
+top:0px;
+padding-top:100px;
+}
+
+.profile-pic {
+padding-top:50px;
+}
+
+.avatar {
+width:200px;
+height:200px;
+}
+
+.skill {
+padding-top:50px;
+width:150px;
+height:150px;
+right:120px;
+}
+
+.birds {
+width:500px;
+height:500px;
+position:absolute;
+left:200px;
+top:100px;
+}
+
+.cherry-blossom {
+width:500px;
+height:500px;
+position:absolute;
+right:-10px;
+}
+
+.skill-row {
+width: 50%;
+margin : 100px auto 100px auto;
+text-align : left;
+line-height : 2;
+}
+
+.avatar {
+position:relative;
+float : left;
+margin-right : 30px;
+bottom:30px;
+}
+
+.skill {
+position:relative;
+float : right;
+bottom:20px;
+margin-left : 30px;
+left:20px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4,  #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4,  #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4,  #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4,  #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4,  #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.middle-container {
+margin : 100px 0;
+padding-bottom : 0px;
+}
+
+.bottom-container {
+background-color : #F05454;
+padding-top : 50px;
+padding-bottom : 30px;
+}
+
+a {
+color : #C21010;
+font-family : sans-serif;
+padding-right : 50px;
+padding-left : 50px;
+font-weight : bold;
+text-decoration:none;
+padding-bottom : 20px;
+}
+
+.name {
+font-stretch : 200%;
+color : white;
+font-size : 15px;
+}
+
+.par {
+width : 70%;
+margin : auto;
+text-decoration : none;
+}
+
+.other-par {
+position:relative;
+width:70%;
+left:90px;
+}
+
+.picture {
+position : absolute;
+left : 0px;
+top : 1900px;
+width : 375px;
+height:667px;
+
+}
+
+.title {
+position:relative;
+left:90px;
+}
